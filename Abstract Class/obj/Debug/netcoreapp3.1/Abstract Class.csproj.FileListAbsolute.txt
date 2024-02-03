@@ -1,0 +1,28 @@
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.exe
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.deps.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.runtimeconfig.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.runtimeconfig.dev.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.csproj.AssemblyReference.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.AssemblyInfoInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.AssemblyInfo.cs
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.genruntimeconfig.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.exe
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.deps.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.runtimeconfig.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.runtimeconfig.dev.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.csproj.AssemblyReference.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.AssemblyInfoInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.AssemblyInfo.cs
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.genruntimeconfig.cache
